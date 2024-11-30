@@ -1,16 +1,49 @@
-# news_app
+# 📰 News App
 
-A new Flutter project.
+*News App* is a Flutter application that displays news from various sources categorized into multiple sections. The app uses the [NewsAPI](https://newsapi.org) to fetch news articles via API integration.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Browse news by categories like **Business**, **Entertainment**, **Health**, **Science**, **Technology**, and **Sports**.
+- Pull-to-Refresh to update the news feed.
+- In-app article viewing using *WebView*.
+- Clean and responsive UI for a great user experience.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Technologies Used
+- *Flutter*: Main framework for app development.
+- *Dio*: HTTP client for API calls.
+- *WebView*: To display news content inside the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+<p align="center">
+  <img src="screenshots/screenshots_2.jpg" width="45%" />
+  <img src="screenshots/screenshots_3.jpg" width="45%" />
+</p>
+
+---
+
+## 🚀 Getting Started
+### Prerequisites:
+- Install Flutter SDK on your system.
+- Obtain an API key from [NewsAPI](https://newsapi.org).
+
+### Steps to Run:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/azimramadan/FlutterNewsApp.git
+2. Install Flutter Dependencies:
+   ```bash
+   flutter pub get
+3. Add Your API Key:
+   ```bash
+   final String apiKey = 'YOUR_API_KEY_HERE'; //Replace this with your NewsAPI key
+4. Run the Projec For Android Emulator:
+   ```bash
+   flutter run
+
+---
