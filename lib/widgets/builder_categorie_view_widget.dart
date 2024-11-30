@@ -111,15 +111,8 @@ class _BuilderCategorieNewsViewState extends State<BuilderCategorieNewsView> {
         ),
       ]),
     );
-
-    // isLoading
-    //     ? const Center(child: CircularProgressIndicator())
-    //     : CustomScrollView(
-    //         physics: const BouncingScrollPhysics(),
-    //         slivers: [BuilderListOfNews(newsInfo: listNews)],
-    //       );
   }
-
+}
   // return isLoading == true
   //     ? const Center(
   //         child: CircularProgressIndicator(
@@ -136,4 +129,3 @@ class _BuilderCategorieNewsViewState extends State<BuilderCategorieNewsView> {
   //             physics: const BouncingScrollPhysics(),
   //             slivers: [BuilderListOfNews(newsInfo: newsInfo)],
   //           );
-}
