@@ -36,6 +36,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/azimramadan/FlutterNewsApp.git
+   cd weather-app
 2. Install Flutter Dependencies:
    ```bash
    flutter pub get
@@ -47,3 +48,5 @@
    flutter run
 
 ---
+
+Feel free to explore, contribute, and use this project to enhance your Flutter skills! 😊
