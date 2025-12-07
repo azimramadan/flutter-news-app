@@ -25,6 +25,10 @@
   <img src="screenshots/screenshots_3.jpg" width="45%" />
 </p>
 
+
+## 🎬 Demo
+
+> 🔗 check the demo post on [LinkedIn](https://www.linkedin.com/posts/azimramadan_flutter-mobiledevelopment-dart-activity-7268918941102600192-RRrF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEnUMDsBHOQmpv6_GP-fBGNNSeeDyOxGA6A)
 ---
 
 ## 🚀 Getting Started
